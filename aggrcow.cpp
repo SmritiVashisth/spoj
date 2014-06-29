@@ -39,6 +39,5 @@ int main(){
         sort(a,a+n);
         cout<<bsearch()<<endl;
     }
-    system("pause");
     return 0;
 }
